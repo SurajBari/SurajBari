@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React Project.**
 
-- 🤝 I’m looking for help with **Android Devlopment**
+- 🤝 I’m looking for help with **AWS Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SurajBari/surajbari.github.io](https://github.com/SurajBari/surajbari.github.io)
 
